@@ -1,0 +1,6 @@
+set food poutine
+set place "Las Vegas"
+set airline "qatar airline"
+print food
+print place
+print airline

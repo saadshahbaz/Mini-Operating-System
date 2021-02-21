@@ -1,0 +1,4 @@
+run courses.txt
+help not required
+just checking a random thing
+print comp310

@@ -1,0 +1,15 @@
+set course1 "Operating Systems"
+set course2 Database
+set course3 Probability
+set course4 "Intro to Financial Accounting"
+set course5 "Information Technology"
+print course1
+print course2
+print course3
+print course4
+print course5
+print course6
+
+help
+Help
+quit

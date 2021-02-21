@@ -1,0 +1,4 @@
+set country Pakistan
+set city Lahore
+print country
+print city

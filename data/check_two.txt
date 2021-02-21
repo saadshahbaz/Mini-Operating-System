@@ -1,0 +1,2 @@
+set checktwo "exec with two file works"
+print checktwo
