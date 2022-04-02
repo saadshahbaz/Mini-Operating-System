@@ -1,4 +1,4 @@
-// Saad Shahbaz, McGill ID: 260845253
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
